@@ -1,0 +1,19 @@
+# Blender temporary files and auto-saves
+*.blend1
+*.blend2
+*.blend~
+*.autosave.blend
+# Blender cache and render output
+/cache/
+/render/
+# Python compiled files (if using Python scripts within Blender)
+__pycache__/
+*.pyc
+# Operating system specific files
+.DS_Store
+Thumbs.db
+# External data or generated assets that are not source files
+/exports/
+/build/
+
+
